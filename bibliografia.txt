@@ -1,2 +1,3 @@
 chacon, s. and Straub
-loeliger, j. and Mcculloug, M. Version control with git. O´Reilly
+loeliger, j. and Mcculloug, M. Version control with git. O´Reilly 
+Ryan Hodson. Ry´s Git Tutorial. SmashWords(2014)
