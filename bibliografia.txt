@@ -1,1 +1,2 @@
 chacon, s. and Straub
+loeliger, j. and Mcculloug, M. Version control with git. O´Reilly
