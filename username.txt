@@ -3,3 +3,4 @@ Naci en Queretaro, Mexico en 1994
 Soy Ing. en sistemas computacionales 
 Aficion por los videojuegos
 Incidencia en producion
+Corregido error para hotfix de producion
