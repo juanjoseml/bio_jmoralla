@@ -4,3 +4,4 @@ Ganas de verano
 Vacaciones de fin de año
 Vacaciones de Diciembre
 Incidencia en registro de vacaciones
+corregido error de vacaciones diciembre
